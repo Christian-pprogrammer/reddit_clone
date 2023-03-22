@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-reditclone-dev-104528-authRole",
+      "UnauthRoleArn": "arn:aws:iam::566009761109:role/amplify-reditclone-dev-104528-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::566009761109:role/amplify-reditclone-dev-104528-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-reditclone-dev-104528-deployment",
+      "UnauthRoleName": "amplify-reditclone-dev-104528-unauthRole",
+      "StackName": "amplify-reditclone-dev-104528",
+      "StackId": "arn:aws:cloudformation:us-east-1:566009761109:stack/amplify-reditclone-dev-104528/d2875bd0-c8b7-11ed-af74-0e7b873504f7",
+      "AmplifyAppId": "d1tnhi9swmyx1g"
+    }
+  }
+}
